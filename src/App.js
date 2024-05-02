@@ -58,6 +58,7 @@ function App() {
 
           <li className="scrollbar-item">
             <div className="blog-card">
+              
 
               <figure className="card-banner img-holder" style={{ '--width': 500, '--height': 600 }}>
                 <img
